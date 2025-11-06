@@ -5,14 +5,38 @@
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I'm a Senior Software Engineer – Backend Systems working for a Health Tech startup in India 
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/) and [dev.to](https://dev.to/apoorvtyagi)
-- 💻 I use daily: **.js**, **.java**, **.py**,  **.sql**
-- 📖 I am currently reading **India After Gandhi** by Ramachandra Guha
-- 💬 Talk to me about cricket, python (neither of these is any insect or animal), Silicon Valley & startups
-- 👯 We can connect to play some games of Chess ♟
-- ⚡ Fun fact: Je connais un peu le français
+### Hey there 👋 I'm Lennon  
+
+🧩 I’m a **Software Engineer & AI Systems Architect** passionate about building **cloud-native, intelligent, and reliable systems**.  
+My work bridges software engineering and AI infrastructure — from **RAG-based knowledge systems** to **ASR pipelines** and **LLM integrations**.  
+
+💡 **What I build**
+- Cloud-native backend architecture (Go · Python · Docker · Cloud Run)  
+- RAG / LLM orchestration with LangChain and vector databases  
+- Real-time ASR streaming and speech-to-text systems  
+- Observability and reliability patterns for AI-driven platforms  
+
+🧠 **Technical interests**
+- Large Language Models (LLMs) & RAG Infrastructure  
+- AI-assisted Software Architecture  
+- Cloud DevOps & System Reliability  
+- Agent-to-Agent (A2A) design and orchestration  
+
+💻 **Tech Stack**
+`Go` · `Python` · `TypeScript` · `Docker` · `PostgreSQL` · `MongoDB` · `LangChain` · `Vertex AI` · `Cloudflare Tunnel`
+
+⚙️ **Previously explored**
+- Big Data frameworks: Hadoop / Spark / Scala  
+- Deep Learning: Object Detection, Face Recognition, Eye Tracking  
+- Edge-to-Cloud AI deployment and simulator-based learning systems  
+
+🎸 **Outside of code**
+I create, design, and play.  
+Music, systems, and ideas — all share the same rhythm: structure with emotion.  
+
+📫 **Let’s connect**
+Discussions about **AI infrastructure**, **LLM systems**, or **creative engineering** are always welcome.
+
 - 🧑‍💻 Tech I work on :
 
 <p align="center">
